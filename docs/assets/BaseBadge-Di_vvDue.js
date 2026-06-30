@@ -1,0 +1,1 @@
+import{c as s,e as o,H as t,h as n,o as r,i as c}from"./index-UuAKG70u.js";const d=s({__name:"BaseBadge",props:{tone:{default:"neutral"}},setup(e){return(a,l)=>(r(),o("span",{class:t(["badge",`badge--${e.tone}`])},[n(a.$slots,"default",{},void 0,!0)],2))}}),_=c(d,[["__scopeId","data-v-b8cbeb7c"]]);export{_ as B};
